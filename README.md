@@ -56,14 +56,9 @@ Mathematical Query Handling: Customize the mathematical problem-solving capabili
 Contribution
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request. Ensure your code is well-documented and tested.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any inquiries or support, please reach out to [Your Name] at [your.email@example.com].
-
-LinkedIn Post
-🚀 Excited to share my latest project!
+For any inquiries or support, please reach out to [Hardik Singh] at [hardiksingh5864@gmai.com]
 
 I've been working on an intelligent chatbot for my company, leveraging the power of LlamaIndex to create a dynamic, topic-specific assistant. This chatbot not only answers questions based on documents we provide but also handles mathematical queries related to those topics.
 
@@ -76,14 +71,4 @@ This project showcases how LlamaIndex can be a game-changer in creating interact
 
 Feel free to check out the project or reach out if you're interested in learning more! 🌟
 
-#AI #Chatbot #LlamaIndex #MachineLearning #TechInnovation
-
-rust
-Copy code
-
-### Formatting Enhancements:
-- Added headers for sections for easy navigation.
-- Used bullet points for key features to improve readability.
-- Included code blocks for command-line instructions.
-- Used bold text for important phrases to emphasize key points.
 
